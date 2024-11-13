@@ -51,7 +51,7 @@ ___
 # 📊 GitHub Report
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruva-star88&show_icons=true&locale=en&layout=compact&disable_animations=false&theme=react" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruva-star88&show_icons=true&locale=en&layout=compact&disable_animations=false&theme=react&include_all_commits=true&count_private=true" 
     alt="dhruva-star88"
     width="600" 
     height="250" 
