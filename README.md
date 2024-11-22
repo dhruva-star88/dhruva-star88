@@ -68,7 +68,7 @@ ___
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dhruva-star88&show_icons=true&locale=en&layout=compact&theme=dark&disable_animations=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dhruva-star88&show_icons=true&locale=en&layout=compact&theme=dark&disable_animations=false&include_all_commits=true&count_private=true" 
     alt="dhruva-star88" 
     width="600" 
     height="250" 
