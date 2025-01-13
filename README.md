@@ -42,6 +42,8 @@ ___
 ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ___
 
 # 📊 GitHub Report
